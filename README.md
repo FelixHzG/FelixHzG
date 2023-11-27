@@ -1,4 +1,10 @@
-### Hi there 👋
+## 👋 About Me
+
+- 🌍 Based in Jalisco, Mexico
+- 🎓 Computer Systems Engineering student
+- 🖥️ Focused on learning back-end development
+- 💻 Enthusiastic about web development with JavaScript
+- 🌐 Excited to explore different technologies
 
 <!--
 **FelixHzG/FelixHzG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
