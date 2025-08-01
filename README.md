@@ -1,10 +1,6 @@
-## 👋 About Me
+Trying to learn something new everyday
 
-- 🌍 Based in Jalisco, Mexico
-- 🎓 Computer Systems Engineering student
-- 🖥️ Focused on learning back-end development
-- 💻 Enthusiastic about web development with JavaScript
-- 🌐 Excited to explore different technologies
+Reach out! 2003felixeu4 [at] gmail [dot] com
 
 <!--
 **FelixHzG/FelixHzG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
